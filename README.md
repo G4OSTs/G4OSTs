@@ -1,5 +1,3 @@
-![cyberpunk-pixel-city-neon-2bagugxcfp2to7tx](https://github.com/user-attachments/assets/01755c74-a7e3-4337-b56f-9dac2f634669)
-
 
 <img src="https://github.com/user-attachments/assets/40f6d3fc-72cc-4321-8f77-039f6cc76c74" width="50000" height="10000"/>
 
