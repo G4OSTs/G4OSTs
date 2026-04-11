@@ -2,8 +2,7 @@
 <img src="https://github.com/user-attachments/assets/40f6d3fc-72cc-4321-8f77-039f6cc76c74" width="50000" height="10000"/>
 
 
-
-<img src="https://github.com/user-attachments/assets/4abcb480-2e44-4b7b-a61f-daba7f2b0528" width="10000" height="1000"/>
+<img src="https://github.com/user-attachments/assets/e8ec1403-52c8-4718-9e0e-70dbab62a6cf" width="10000" height="1000"/>
 
 
 <a align="center"></a><h1 align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="65" height="65"/>  $whoami → GHOST</h1>
@@ -48,5 +47,5 @@
     
   </a>
 </p>
-<img src="https://github.com/user-attachments/assets/4abcb480-2e44-4b7b-a61f-daba7f2b0528" width="10000" height="1000"/>
+<img src="https://github.com/user-attachments/assets/e8ec1403-52c8-4718-9e0e-70dbab62a6cf" width="10000" height="1000"/>
 
