@@ -9,7 +9,7 @@
 <h3 align="center">Cyber Security | Penetration Testing | IoT | Ethical Hacking | AI</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=g40sts&label=Profile%20views&color=0e75b6&style=flat" alt="g40sts" /> </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10000" height="1000"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10000" height="9"/>
 
 <p align=" right"><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></p>
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i>About me ....</i></h3>
@@ -26,19 +26,33 @@
 
 ⭕ .⚡ Fun fact **Call ME As GHOST ☠️**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10000" height="1000"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10000" height="9"/>
 
 <h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">Connect with Me</h2>
 <br></br>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/vimukthi-wishvia-01185b380" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/vimukthi_vishwa_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://profile.hackthebox.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/918eeccd-0614-48ea-9cf4-3048497e8111" alt="htb" height="50" width="50" /></a>
-<a href="https://tryhackme.com/G4OST" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e5a7098a-9f8c-4519-b43a-990749959b93" alt="thm" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/1472782886330564752" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  <a href="https://github.com/your-G4OSTs">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  <a href="https://linkedin.com/in/your-vimukthi-wishvia-01185b380">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="https://instagram.com/your-vimukthi_vishwa_">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
+  <a href="https://tryhackme.com/p/your-G4OST">
+    <img src="https://cdn.simpleicons.org/tryhackme" height="50"/>
+  </a>
+  <a href="https://app.hackthebox.com/profile/@G40ST8">
+    <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="50"/>
+  </a>
+  <a href="https://discordapp.com/users/1472782886330564752">
+    <img src="https://skillicons.dev/icons?i=discord" height="50"/>
+  </a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10000" height="1000"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10000" height="9"/>
 
 <h2 align="left" ><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Tech Stack</h2>
 <p align="center">
@@ -47,5 +61,19 @@
     
   </a>
 </p>
-<img src="https://github.com/user-attachments/assets/e8ec1403-52c8-4718-9e0e-70dbab62a6cf" width="10000" height="1000"/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10000" height="9"/>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&height=60&duration=4000&pause=1000&lines=We+Are+Anonymous...;We+Are+Legion...;We+Do+Not+Forgive...;We+Do+Not+Forget...;Expect+Us...;GHOST+☠" />
+</p>
+
+<h3 align="center">🔐 Stay Safe..! </h3>
+<br></br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-ONLINE-00FF00?style=for-the-badge&logo=matrix&logoColor=black"/>
+</p>
+
+<img src="https://github.com/user-attachments/assets/e8ec1403-52c8-4718-9e0e-70dbab62a6cf" width="10000" height="1000"/>
