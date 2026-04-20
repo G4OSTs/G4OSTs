@@ -1,8 +1,8 @@
 
-<img src="https://github.com/user-attachments/assets/40f6d3fc-72cc-4321-8f77-039f6cc76c74" width="50000" height="10000"/>
+<img src="https://github.com/user-attachments/assets/40f6d3fc-72cc-4321-8f77-039f6cc76c74" width="1500" height="900"/>
 
 
-<img src="https://github.com/user-attachments/assets/e8ec1403-52c8-4718-9e0e-70dbab62a6cf" width="10000" height="1000"/>
+<img src="https://github.com/user-attachments/assets/e8ec1403-52c8-4718-9e0e-70dbab62a6cf" width="10000" height="9"/>
 
 
 <a align="center"></a><h1 align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="65" height="65"/>  $whoami → GHOST</h1>
@@ -67,7 +67,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&height=60&duration=4000&pause=1000&lines=We+Are+Anonymous...;We+Are+Legion...;We+Do+Not+Forgive...;We+Do+Not+Forget...;Expect+Us...;GHOST+☠" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&height=60&duration=4000&pause=1000&lines=We+Are+Anonymous...;We+Are+Legion...;We+Do+Are+Not+Forget...;We+Do+Are+Not+Forgive...;Expect+Us...;GHOST+☠" />
 </p>
 
 <h3 align="center">🔐 Stay Safe..! </h3>
@@ -76,4 +76,4 @@
   <img src="https://img.shields.io/badge/Status-ONLINE-00FF00?style=for-the-badge&logo=matrix&logoColor=black"/>
 </p>
 
-<img src="https://github.com/user-attachments/assets/e8ec1403-52c8-4718-9e0e-70dbab62a6cf" width="10000" height="1000"/>
+<img src="https://github.com/user-attachments/assets/e8ec1403-52c8-4718-9e0e-70dbab62a6cf" width="10000" height="9"/>
