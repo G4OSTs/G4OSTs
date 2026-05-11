@@ -22,7 +22,7 @@
 
 ⭕ .💬 Ask me about **Cyber Security**
 
-⭕ .📫 How to reach me **regusam67@gmail.com**
+⭕ .📫 How to reach me **ghost404v@gmail.com**
 
 ⭕ .⚡ Fun fact **Call ME As GHOST ☠️** 
 
