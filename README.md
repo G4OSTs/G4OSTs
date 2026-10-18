@@ -7,7 +7,7 @@
 
 
 <a align="center"></a><h1 align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="65" height="65"/>  $whoami → GHOST</h1>
-<h3 align="center">Cyber Security | Penetration Testing | Ethical Hacking | IoT</h3>
+<h3 align="center">Cyber Security | Penetration Testing | IoT</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=g40sts&label=Profile%20views&color=0e75b6&style=flat" alt="g40sts" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10000" height="9"/>
@@ -33,7 +33,7 @@
 <br></br>
 
 <p align="center">
-  <a href="https://github.com/your-G4OSTs">
+  <a href="https://github.com/G4OSTs">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
   <a href="https://linkedin.com/in/your-vimukthi-wishvia-01185b380">
@@ -70,7 +70,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&height=60&duration=4000&pause=1000&lines=We+Are+Anonymous...;We+Are+Legion...;We+Do+Are+Not+Forget...;We+Do+Are+Not+Forgive...;Expect+Us...;GHOST+☠" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&height=60&duration=4000&pause=1000&lines=No+System+is+Safe...!;Aim+For+The+Impossible...!;Have+Fun+In+Cyber+Space+And+Meet+Space..!;+Do+Not+Forget...!;Do+Not+Forgive...!;GHOST+☠" />
 </p>
 
 <p align="center">
@@ -79,3 +79,4 @@
 
 
 <img src="https://github.com/user-attachments/assets/e8ec1403-52c8-4718-9e0e-70dbab62a6cf" width="10000" height="12"/>
+
